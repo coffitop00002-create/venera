@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background: #fafafa;
+}
+
+#menu {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.item {
+  padding: 15px;
+  border: 1px solid #ccc;
+  background: white;
+  border-radius: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 15px;
+  background: #ff6a00;
+  border: none;
+  color: white;
+  font-size: 18px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
